@@ -1,0 +1,10 @@
+Peter-50000
+John-65000
+Robert-60000
+Lisa-60000
+Sandeep-110000
+Micheal-85000
+Ross-60000
+Amanda-60000
+Rahul-75000
+Vamsi-90000

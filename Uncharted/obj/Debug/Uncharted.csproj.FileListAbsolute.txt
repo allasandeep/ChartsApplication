@@ -1,0 +1,27 @@
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\bin\Debug\Uncharted.exe.config
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\bin\Debug\Uncharted.exe
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\bin\Debug\Uncharted.pdb
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\obj\Debug\Uncharted.csprojResolveAssemblyReference.cache
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\obj\Debug\Uncharted.Bar.resources
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\obj\Debug\Uncharted.Form1.resources
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\obj\Debug\Uncharted.Line.resources
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\obj\Debug\Uncharted.Pie.resources
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\obj\Debug\Uncharted.Properties.Resources.resources
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\obj\Debug\Uncharted.Stock.resources
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\obj\Debug\Uncharted.csproj.GenerateResource.Cache
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\obj\Debug\Uncharted.exe
+c:\users\a1821331\documents\visual studio 2015\Projects\Uncharted\Uncharted\obj\Debug\Uncharted.pdb
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\bin\Debug\Uncharted.exe.config
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\bin\Debug\Uncharted.exe
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\bin\Debug\Uncharted.pdb
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.csprojAssemblyReference.cache
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.Bar.resources
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.Form1.resources
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.Line.resources
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.Pie.resources
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.Properties.Resources.resources
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.Stock.resources
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.csproj.GenerateResource.cache
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.csproj.CoreCompileInputs.cache
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.exe
+C:\Users\sande\Downloads\Uncharted\Uncharted\Uncharted\obj\Debug\Uncharted.pdb

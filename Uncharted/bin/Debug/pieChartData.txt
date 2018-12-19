@@ -1,0 +1,9 @@
+White-50.0
+Black-5.5
+Some Other race-25.7
+Asian-4.0
+Am. Indian-3.0
+Two or More-4.0
+Pacific Islander-2.5
+Native Hawaiian-2.5
+Alaska Native-2.0
