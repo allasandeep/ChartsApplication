@@ -2,7 +2,7 @@
  *                                                                                                                 *
  *  CSCI 473/504							Assignment 6 								 Fall 2018                 *                                           
  *																										           *
- *  Programmer's: Sandeep Alla (z1821331) Gayathri Sanikommu (z1822939) Venkata SuryaVamsi Maddukuri (z1855404)    *  
+ *  Programmer's: Sandeep Alla (z1821331)   *  
  *																										           *
  *  Date Due  : November 29, 2018			File :	Pie.cs      					     				           *                          
  *																										           *
